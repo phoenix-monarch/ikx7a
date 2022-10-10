@@ -3,12 +3,8 @@
 нεყ, ωεℓcσɱε το мყ թօяƒℓιє
 
 </h2>
-ㅤ
 
-ㅤ
-**AL3X-Github/AL3X-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here Are Some Ideas To Get You Started:
 
 - 🔭 I’m currently working on : **Telegram Bots**
 - 🌱 I’m currently learning : **C++**
