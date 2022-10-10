@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with : **Love**
 - 💬 Ask me about : **Anything**
 - 😄 Pronouns : **He/Him**
-- ⚡ Fun fact :**I Love Anime**
+- ⚡ Fun fact : **I Love Anime**
 
 
 <div align="center">
