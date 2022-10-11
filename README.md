@@ -20,6 +20,7 @@ Here Are Some Ideas To Get You Started:
 class Izmui():
     def __init__(self):
         self.name = ['I𝗓υɱi 和泉']
+        self.age = ['19']
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
