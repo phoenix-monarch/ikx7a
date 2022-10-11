@@ -17,7 +17,7 @@ Here Are Some Ideas To Get You Started:
 <h2> 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 </h2>
 
 ```python3
-class Anonymous():
+class Izmui():
     def __init__(self):
         self.name = ['I𝗓υɱi 和泉']
         self.country = ['India']
