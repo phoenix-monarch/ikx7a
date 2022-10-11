@@ -30,7 +30,7 @@ Here Are Some Ideas To Get You Started:
 
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXChannels)
 
-<img src="https://te.legra.ph/file/5870c2daa095e1c6a5f3e.jpg">
+<img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%20%40ikx7.a.jpg">
 ㅤ
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
