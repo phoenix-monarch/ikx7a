@@ -18,7 +18,7 @@ Here Are Some Ideas To Get You Started:
 <div align="center">
 
 
-<img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg">
+<img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%40ikx7.a.png">
 ㅤ
 ㅤ
 
