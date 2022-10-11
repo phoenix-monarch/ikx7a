@@ -12,7 +12,7 @@ Here Are Some Ideas To Get You Started:
 - 🤔 I’m looking for help with : **Love**
 - 💬 Ask me about : **Anything**
 - 😄 Pronouns : **He/Him**
-- ⚡ Fun fact : **I Love Anime**
+- ⚡ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
 
 
 <div align="center">
