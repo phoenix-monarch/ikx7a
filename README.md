@@ -10,7 +10,7 @@ Here Are Some Ideas To Get You Started:
 - 🌱 I’m currently learning : **C++**
 - 👯 I’m looking to collaborate on : **Open Source**
 - 🤔 I’m looking for help with : **Love**
-- 💬 Ask me about : **Anything**
+- 💬 Ask me about : [**Anything**](https://telegram.dog/LisaXRobot)
 - 😄 Pronouns : **He/Him**
 - ⚡ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
 
