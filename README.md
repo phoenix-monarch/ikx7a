@@ -76,7 +76,7 @@ class Izmui():
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
 
 
-© Copyright Holder : [I𝗓υɱi 和泉](https://t.me/MaximXRobot)
+**© Copyright Holder** : [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
 
 </div>
 
