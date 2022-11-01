@@ -76,7 +76,7 @@ class Izmui():
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
 
 
-**© Copyright Holder** : [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
+**© Copyright Holder :** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
 
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Gif/Shikimori's%20Love%20Izumi.gif">
 
