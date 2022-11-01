@@ -4,8 +4,6 @@
 
 </h2>
 
-Here Are Some Ideas To Get You Started:
-
 - 🔭 I’m currently working on : [**Telegram Bots**](https://telegram.dog/MaximXBots)
 - 📚 I’m currently learning : **C++**
 - 👯 I’m looking to collaborate on : **Open Source**
