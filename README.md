@@ -7,12 +7,12 @@
 Here Are Some Ideas To Get You Started:
 
 - 🔭 I’m currently working on : [**Telegram Bots**](https://telegram.dog/MaximXBots)
-- 🌱 I’m currently learning : **C++**
+- 📚 I’m currently learning : **C++**
 - 👯 I’m looking to collaborate on : **Open Source**
 - 🤔 I’m looking for help with : **Love**
 - 💬 Ask me about : [**Anything**](https://telegram.dog/LisaXRobot)
 - 😄 Pronouns : **He/Him**
-- ⚡ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
+- ❤️ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
 
 <h1 align="center">
     ─「 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 」─
@@ -77,6 +77,8 @@ class Izmui():
 
 
 **© Copyright Holder** : [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
+
+<img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%20%40ikx7.a.jpg">
 
 </div>
 
