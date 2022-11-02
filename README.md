@@ -12,9 +12,9 @@
 - 😄 Pronouns : **He/Him**
 - ❤️ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
 
-<h1 align="center">
+<h3 align="center">
     ─「 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 」─
-</h1>
+</h3>
 
 ```python3
 class Izmui():
@@ -51,9 +51,9 @@ class Izmui():
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%40ikx7.a.png">
 ㅤ
 
-<h1 align="center">
+<h3 align="center">
     ─「 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 」─
-</h1>
+</h3>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXRobot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a)</a>
@@ -62,9 +62,9 @@ class Izmui():
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/2F0zGcr) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m8u2TmgRjN)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/AL3X-Github/AL3X-Github/blob/main/Gif/Shikimori's%20Love%20Izumi.gif) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AL3X-Github) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdxabhiff@gmail.com) 
 
-<h1 align="center">
+<h3 align="center">
     ─「 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 」─
-</h1>
+</h3>
 
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXChannels)
 
@@ -74,7 +74,7 @@ class Izmui():
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
 
 
-**© Copyright Holder :** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
+**𝖢𝗈𝗉𝗒𝗋𝗂𝗀𝗁𝗍 |** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
 
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Gif/Shikimori's%20Love%20Izumi.gif">
 
