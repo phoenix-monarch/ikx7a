@@ -93,3 +93,7 @@ class Izmui():
 <p align="center">
 <b>All Rights Reserved</b>
 </p>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
