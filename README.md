@@ -84,7 +84,12 @@ class Izmui():
 
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%20%40ikx7.a.jpg">
 
-**𝖢𝗈𝗉𝗒𝗋𝗂𝗀𝗁𝗍 |** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
+<p align="center">
 
-</div>
+**Copyright © 2022** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
 
+</p>
+
+<p align="center">
+<b>All Rights Reserved</b>
+</p>
