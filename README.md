@@ -49,7 +49,7 @@ class Izumi():
 </h2><b>
 <p align="center"> •
     <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> More Information </a> •
-    <a href="https://github.com/Al3x-GitHub"> Organizations </a> •
+    <a href="https://github.com/ikx7a/Organizations"> Organizations </a> •
 </a></h2></b></p>
 <h3 align="center">
     ─「 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 」─
