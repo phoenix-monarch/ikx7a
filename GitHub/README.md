@@ -6,7 +6,3 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ikx7a&show_icons=true&theme=gotham" alt="ikx7a" />
 
 </details>
-<details>
-<summary><h4>Languages</h4></summary>
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikx7a&layout=compact)
