@@ -20,6 +20,9 @@
 - 😄 Pronouns : **He/Him**
 - ❤️ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
 
+<details open>
+<summary>README.md</summary>
+
 <h3 align="center">
     ─「 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 」─
 </h3>
@@ -91,3 +94,4 @@ class Izumi():
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
+</details open>
