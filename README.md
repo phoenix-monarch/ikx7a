@@ -3,20 +3,15 @@
 
 ![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
 
----
-
 </details>
 <h2 align="center">
-
-нεყ, ωεℓcσɱε το мყ թօяƒℓιє
-
-</h2>
+нεყ, ωεℓcσɱε το мყ թօяƒℓιє </h2>
 
 - 📚 I’m currently learning : **Mind**
 - 💬 Ask me about : [**Anything**](https://telegram.dog/LisaXRobot)
 - 😄 Pronouns : **He/Him**
 - ❤️ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
-
+- - -
 <details>
 <summary>README.md</summary>
 
