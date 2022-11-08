@@ -1,4 +1,4 @@
-<details open>
+<details>
 <summary>Visitor counter</summary>
 
 ![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
@@ -20,7 +20,7 @@
 - 😄 Pronouns : **He/Him**
 - ❤️ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
 
-<details open>
+<details>
 <summary>README.md</summary>
 
 <h3 align="center">
