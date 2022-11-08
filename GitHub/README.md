@@ -26,4 +26,7 @@
 </details>
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:activity-->
+<!--START_SECTION: speed-->
+<p align="center">
+	<img src=".ikx7a/assets/banner.svg" width="800px">
+</p>
