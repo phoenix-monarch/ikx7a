@@ -12,3 +12,7 @@
 <summary><h4>GitHub Streak</h4></summary>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ikx7a)](https://github.com/ikx7a)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
