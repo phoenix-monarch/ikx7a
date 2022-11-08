@@ -8,3 +8,5 @@
 </details>
 <details>
 <summary><h4>Languages</h4></summary>
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikx7a&layout=compact)
