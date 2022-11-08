@@ -15,8 +15,6 @@
 
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikx7a&theme=vue)
 
-![Profile views](https://gpvc.arturio.dev/ikx7a)  
-
 <h3 align="center">
     ─「 𝑅𝑎𝑛𝑑𝑜𝑚 𝑄𝑢𝑜𝑡𝑒𝑠 」─
 </h3>
@@ -24,3 +22,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+---
+
+<details>
+<summary>Visitor counter</summary>
+
+![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
+
+</details>
