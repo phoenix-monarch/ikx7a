@@ -1,3 +1,11 @@
+<details open>
+<summary>Visitor counter</summary>
+
+![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
+
+---
+
+</details>
 <h2 align="center">
 
 нεყ, ωεℓcσɱε το мყ թօяƒℓιє
