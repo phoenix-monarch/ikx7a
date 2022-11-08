@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
 
-![Header](https://github.com/ikx7a/ikx7a/blob/main/Photos/github-header-image.png)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ikx7a&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ikx7a )
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikx7a&show_icons=true&count_private=true)  
 
