@@ -17,7 +17,7 @@
 </h3>
 
 ```python3
-class Izmui():
+class Izumi():
     def __init__(self):
         self.name = ['I𝗓υɱi 和泉']
         self.age = ['19']
