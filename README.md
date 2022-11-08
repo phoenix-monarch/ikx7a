@@ -12,10 +12,7 @@
 
 </h2>
 
-- 🔭 I’m currently working on : [**Telegram Bots**](https://telegram.dog/MaximXBots)
-- 📚 I’m currently learning : **C++**
-- 👯 I’m looking to collaborate on : **Open Source**
-- 🤔 I’m looking for help with : **Love**
+- 📚 I’m currently learning : **Mind**
 - 💬 Ask me about : [**Anything**](https://telegram.dog/LisaXRobot)
 - 😄 Pronouns : **He/Him**
 - ❤️ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
