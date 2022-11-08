@@ -46,12 +46,10 @@ class Izumi():
         ]
  ```
 <div align="center">
-
-<p align="center"><img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%40ikx7.a.png" alt="ICON" width="350" height="350"/></p>
-
 </h2><b>
 <p align="center"> •
     <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> More Information </a> •
+    <a href="https://github.com/Al3x-GitHub"> Organizations </a> •
 </a></h2></b></p>
 <h3 align="center">
     ─「 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 」─
@@ -70,9 +68,6 @@ class Izumi():
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXChannels)
 
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%20%40ikx7.a.jpg">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <p align="center">
 
