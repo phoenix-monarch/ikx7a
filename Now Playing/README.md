@@ -1,6 +1,9 @@
 <img src="https://github.com/ikx7a/ikx7a/blob/main/Now%20Playing/No%20Competition.png">
 
 <div align="center">
+
+**You Can Download/Play Full Album On**
+
 <p align="center">
 <h4><b>
 
