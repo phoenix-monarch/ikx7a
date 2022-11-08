@@ -27,6 +27,9 @@
 <!--END_SECTION:waka-->
 
 <!--START_SECTION: speed-->
+<details>
+<summary><h4>Page Speed</h4></summary>
+
 <p align="center">
-	<img src=".ikx7a/assets/banner.svg" width="800px">
+	<img src="https://github.com/ikx7a/ikx7a/blob/main/assets/banner.svg" width="800px">
 </p>
