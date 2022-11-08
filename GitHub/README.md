@@ -13,6 +13,8 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ikx7a)  
 
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikx7a&theme=vue)
+
 ![Profile views](https://gpvc.arturio.dev/ikx7a)  
 
 <h3 align="center">
