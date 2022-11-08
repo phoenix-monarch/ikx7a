@@ -51,6 +51,13 @@ class Izumi():
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%40ikx7.a.png">
 ㅤ
 
+</h3><b>
+<p align="center"> •
+    <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> GitHub Status </a> •
+    <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> GitHub Streak </a> •
+</h3>
+</b>
+</p>
 <h3 align="center">
     ─「 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 」─
 </h3>
