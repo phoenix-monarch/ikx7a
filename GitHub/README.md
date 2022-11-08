@@ -33,3 +33,6 @@
 <p align="center">
 	<img src="https://github.com/ikx7a/ikx7a/blob/main/assets/banner.svg" width="800px">
 </p>
+</details>
+
+
