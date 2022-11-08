@@ -13,3 +13,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ikx7a)](https://github.com/ikx7a)
 
 <!--END_SECTION:streak-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
