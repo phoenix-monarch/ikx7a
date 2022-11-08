@@ -1,38 +1,17 @@
+<div align="center">
+
 ![Header](https://github.com/ikx7a/ikx7a/blob/main/Photos/github-header-image.png)
 
-<details>
-<summary><h4>GitHub Stats</h4></summary>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ikx7a&show_icons=true&theme=black" alt="ikx7a" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikx7a&show_icons=true&count_private=true)  
 
-</details>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ikx7a)  
 
-<!--START_SECTION:streak-->
-<details>
-<summary><h4>GitHub Streak</h4></summary>
+![GitHub metrics](https://metrics.lecoq.io/ikx7a)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ikx7a)](https://github.com/ikx7a)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ikx7a)  
 
-<!--END_SECTION:streak-->
-</details>
+![Profile views](https://gpvc.arturio.dev/ikx7a)  
 
-<!--START_SECTION:waka-->
-<details>
-<summary><h4>Wakeup Time</h4></summary>
-
-```
-⌚︎ Timezone: Asia/New Delhi
-```
-</details>
-<!--END_SECTION:waka-->
-
-<!--START_SECTION: speed-->
-<details>
-<summary><h4>Page Speed</h4></summary>
-
-<p align="center">
-	<img src="https://github.com/ikx7a/ikx7a/blob/main/assets/banner.svg" width="800px">
-</p>
-</details>
-
-
+</div>
