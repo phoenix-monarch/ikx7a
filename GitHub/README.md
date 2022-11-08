@@ -22,9 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
 <details>
 <summary>Visitor counter</summary>
 
