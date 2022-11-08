@@ -97,3 +97,5 @@ class Izumi():
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
