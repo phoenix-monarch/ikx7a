@@ -47,9 +47,7 @@ class Izumi():
  ```
 <div align="center">
 
-
-<img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%40ikx7.a.png">
-ㅤ
+<p align="center"><img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%40ikx7.a.png" alt="ICON" width="350" height="350"/></p>
 
 </h2><b>
 <p align="center"> •
