@@ -53,7 +53,7 @@ class Izumi():
 
 </h3><b>
 <p align="center"> •
-    <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> GitHub Status </a> •
+    <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> GitHub Stats </a> •
     <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> GitHub Streak </a> •
 </h3>
 </b>
