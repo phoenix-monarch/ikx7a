@@ -73,6 +73,9 @@ class Izumi():
 
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%20%40ikx7.a.jpg">
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
 
 **Copyright © 2022** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
@@ -85,6 +88,3 @@ class Izumi():
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
