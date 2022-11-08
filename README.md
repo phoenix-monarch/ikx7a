@@ -1,4 +1,8 @@
 <details>
+<summary>My Life</summary>
+<img src="https://github.com/ikx7a/ikx7a/blob/main/Photos/20221109_021435.jpg" />
+</details>
+<details>
 <summary>Visitor counter</summary>
 
 ![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
@@ -92,6 +96,6 @@ class Izumi():
 <b>All Rights Reserved</b>
 </p>
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 </details open>
