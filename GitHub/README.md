@@ -22,9 +22,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-<details>
-<summary>Visitor counter</summary>
-
-![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
-
-</details>
