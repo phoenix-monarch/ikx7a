@@ -1,7 +1,7 @@
 <details>
 <summary>Visitor counter</summary>
 
-![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
+![Kx](https://count.getloli.com/get/@sadru?theme=rule34)
 
 </details>
 <h2 align="center">
