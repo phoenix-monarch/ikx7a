@@ -1,4 +1,4 @@
-<details>
+<details close>
 <summary>Visitor counter</summary>
 
 ![Kx](https://count.getloli.com/get/@sadru?theme=rule34)
