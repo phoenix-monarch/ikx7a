@@ -7,10 +7,10 @@
 <h2 align="center">
 нεყ, ωεℓcσɱε το мყ թօяƒℓιє </h2>
 
-- 📚 I’m currently learning : **Mind**
-- 💬 Ask me about : [**Anything**](https://telegram.dog/LisaXRobot)
-- 😄 Pronouns : **He/Him**
-- ❤️ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
+- 📚 𝐼'𝑚 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 : **Mind**
+- 💬 𝐴𝑠𝑘 𝑀𝑒 𝐴𝑏𝑜𝑢𝑡 : [**Anything**](https://telegram.dog/LisaXRobot)
+- 😄 𝑃𝑟𝑜𝑛𝑜𝑢𝑛𝑠 : **He/Him**
+- ❤️ 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡 : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
 - - -
 <details>
 <summary>𝑅𝐸𝐴𝐷𝑀𝐸.𝑚𝑑</summary>
