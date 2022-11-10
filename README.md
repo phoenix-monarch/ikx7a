@@ -1,5 +1,5 @@
-<details close>
-<summary>Visitor counter</summary>
+<details>
+<summary>𝑉𝑖𝑠𝑖𝑡𝑜𝑟 𝐶𝑜𝑢𝑛𝑡𝑒𝑟</summary>
 
 ![Kx](https://count.getloli.com/get/@sadru?theme=rule34)
 
@@ -13,7 +13,7 @@
 - ❤️ Fun fact : **I Love [Shikimori's](https://github.com/AL3X-Github/Shikimori-San)**
 - - -
 <details>
-<summary>README.md</summary>
+<summary>𝑅𝐸𝐴𝐷𝑀𝐸.𝑚𝑑</summary>
 
 <h3 align="center">
     ─「 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 」─
