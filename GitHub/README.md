@@ -9,9 +9,9 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ikx7a)  
 
-![GitHub metrics](https://metrics.lecoq.io/ikx7a)  
+![GitHub Metrics](https://metrics.lecoq.io/ikx7a)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ikx7a)  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ikx7a)  
 
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikx7a&theme=vue)
 
