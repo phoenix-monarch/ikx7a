@@ -85,5 +85,5 @@ class Izumi():
 </p>
 </details>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </div>
