@@ -3,6 +3,10 @@
 </h1>
 <div align="center">
 
+<p align="center">
+	<img src="https://github.com/ikx7a/ikx7a/blob/main/assets/banner.svg" width="800px">
+</p>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ikx7a&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ikx7a)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikx7a&show_icons=true&count_private=true)  
