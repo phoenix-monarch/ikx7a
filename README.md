@@ -74,16 +74,14 @@ class Izumi():
 
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%20%40ikx7.a.jpg">
 
-<p align="center">
+</details>
+
+<div align="center">
 
 **Copyright © 2022** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot)
 
-</p>
-
-<p align="center">
-<b>All Rights Reserved</b>
-</p>
-</details>
+**All Rights Reserved**
+</div>
 <div align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </div>
