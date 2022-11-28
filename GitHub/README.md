@@ -19,6 +19,8 @@
 
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikx7a&theme=vue)
 
+[![Kx](https://github-stats-alpha.vercel.app/api?username=ikx7a "Kx")](https://github-stats-alpha.vercel.app/api?username=ikx7a "Kx")
+
 <h3 align="center">
     ─「 𝑅𝑎𝑛𝑑𝑜𝑚 𝑄𝑢𝑜𝑡𝑒𝑠 」─
 </h3>
