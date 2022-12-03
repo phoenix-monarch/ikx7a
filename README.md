@@ -1,3 +1,5 @@
+<a href="https://discord.gg/shiba"><img src="https://github.com/ikx7a/ikx7a/blob/main/Photos/_main_.png" width="100%" height="auto"/></a>
+
 <h2 align="center">
 нεყ, ωεℓcσɱε το мყ թօяƒℓιє </h2>
 
