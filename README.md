@@ -1,7 +1,4 @@
-<a href="https://discord.gg/shiba"><img src="https://github.com/ikx7a/ikx7a/blob/main/Photos/_main_.png" width="100%" height="auto"/></a>
-
-<h2 align="center">
-нεყ, ωεℓcσɱε το мყ թօяƒℓιє </h2>
+<img src="https://github.com/ikx7a/ikx7a/blob/main/Photos/_main_.png" width="100%" height="auto"/>
 
 - 📚 𝐼'𝑚 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 : **About Deep Learning, Computer Vision.**
 - 💬 𝐴𝑠𝑘 𝑀𝑒 𝐴𝑏𝑜𝑢𝑡 : [**Anything**](https://telegram.dog/LisaXRobot)
