@@ -1,7 +1,7 @@
 <img src="https://github.com/ikx7a/ikx7a/blob/main/Photos/_main_.png" width="100%" height="auto"/>
 
 <p align="center">
-  <a href="https://www.instgram.com/ikx7.a"><img width="35px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/icons/icons8-instagram-480.png"/></a>
+  <a href="https://www.instagram.com/ikx7.a"><img width="35px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/icons/icons8-instagram-480.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://youtube.com/channel/UC9o1hM49jVr2lgOinw0pAdw"><img width="34px" alt="YouTube" title="YouTube" src="https://github.com/ikx7a/ikx7a/blob/main/icons/icons8-youtube-480.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
