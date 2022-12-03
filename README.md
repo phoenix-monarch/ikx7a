@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/ikx7.a"><img width=40px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/icons/icons8-instagram-480.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="https://youtube.com/channel/UC9o1hM49jVr2lgOinw0pAdw"><img width="34px" alt="YouTube" title="YouTube" src="https://github.com/ikx7a/ikx7a/blob/main/icons/icons8-youtube-480.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="mailto:izumixshikimorii@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/ikx7a/ikx7a/blob/main/icons/icons8-gmail-logo-480.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="https://telegram.dog/MaximXRobot"><img width="31px" alt="Telegram" title="Telegram" src="https://github.com/ikx7a/ikx7a/blob/main/icons/icons8-telegram-app-480.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
 <br>
 
 - 📚 𝐼'𝑚 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 : **About Deep Learning, Computer Vision.**
