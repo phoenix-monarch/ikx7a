@@ -53,7 +53,7 @@ class Izumi():
     ─「 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 」─
 </h3>
 
-[![Linktree](https://img.shields.io/badge/linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white)]()
+[![Linktree](https://img.shields.io/badge/linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ikx7.a)
 
 [![Telegram](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXChannels)
 
