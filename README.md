@@ -72,5 +72,5 @@ class Izumi():
 
 <a href="https://github.com/ikx7a?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a> 
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/ikx7a/ikx7a/blob/main/assets/contributions.svg">
 </div>
