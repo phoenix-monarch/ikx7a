@@ -37,6 +37,11 @@ class Izumi():
         self.age = ['19']
         self.country = ['India']
         self.language = ['हिंदी', 'English']
+    def quotes(self):
+        self.quotes [
+                'Whatever Your Situation Is Now, Say Alhamdulillah'
+        ]
+
     def programming_languages(self):
         return [
             'Python', 'SQL'
