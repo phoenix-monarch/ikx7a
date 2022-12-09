@@ -1,14 +1,15 @@
+<!-- Start Achievements icons section -->
 <details>
  <summary>𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬</summary>
-
-<!-- Start Achievements icons section -->
 <p align="center">
   <a href="https://github.com/ikx7a/ikx7a/tree/main/Achievements"><img width="300px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/Achievements.png"/></a>
+</p>
 <!-- End Achievements icons section -->
 
 </details>
 
 [![YouTube](https://github.com/ikx7a/ikx7a/blob/main/Photos/_main_.png)](https://github.com/ikx7a/YouTube)
+
 <!-- Start Social icons section -->
 <p align="center">
   <a href="https://instagram.com/ikx7.a"><img width="50px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/icons/instagram.png"/></a>
@@ -18,7 +19,6 @@
   <a href="https://telegram.me/Maxim_ffx" alt="Telegram" title="Telegram"><img width="50px" src="https://github.com/ikx7a/ikx7a/blob/main/icons/telegram.png"/></a>
   &#8287;&#8287;
 </p>
-
 <!-- End Social badges section -->
 
 - 📚 𝐼'𝑚 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 : **About Deep Learning, Computer Vision.**
@@ -26,6 +26,7 @@
 - 😄 𝑃𝑟𝑜𝑛𝑜𝑢𝑛𝑠 : **He/Him/His**
 - ❤️ 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡 : **I Love [Shikimori's](https://github.com/ikx7a/Shikimori-San)**
 
+<!-- Start About section -->
 <details>
 <summary>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</summary>
 
@@ -58,6 +59,9 @@ class Izumi():
             'Windows 11', 'Windows 10', 'Windows 8.1', 'Windows 7', 'Windows XP'
         ]
  ```
+
+<!-- End About section -->
+
 <div align="center">
 </h2><b>
 <p align="center">
@@ -66,6 +70,8 @@ class Izumi():
     
   • <a href="https://github.com/ikx7a/ikx7a/tree/main/Now%20Playing"> Now Playing </a> •
 </h2></b></p>
+
+<!-- Start Contact section -->
 <h3 align="center">
     ─「 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 」─
 </h3>
@@ -77,6 +83,8 @@ class Izumi():
 <img src="https://github.com/AL3X-Github/AL3X-Github/blob/main/Photos/Insta-%20%40ikx7.a.jpg">
 
 </details>
+<!-- End About section -->
+
 <div align="center">
  
 <a href="https://github.com/ikx7a?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a> 
