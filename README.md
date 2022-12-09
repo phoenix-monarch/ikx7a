@@ -18,11 +18,7 @@
 - ❤️ 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡 : **I Love [Shikimori's](https://github.com/ikx7a/Shikimori-San)**
 - - -
 <details>
-<summary>𝑅𝐸𝐴𝐷𝑀𝐸.𝑚𝑑</summary>
-
-<h3 align="center">
-    ─「 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 」─
-</h3>
+<summary>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</summary>
 
 ```python3
 class Izumi():
