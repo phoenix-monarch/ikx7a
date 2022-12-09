@@ -3,7 +3,7 @@
 
 <!-- Start Achievements icons section -->
 <p align="center">
-  <a href="https://github.com/ikx7.a"><img width="300px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/Achievements.png"/></a>
+  <a href="https://github.com/ikx7a/ikx7a/tree/main/Achievements"><img width="300px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/Achievements.png"/></a>
 <!-- End Achievements icons section -->
 
 </details>
