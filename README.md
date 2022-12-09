@@ -6,7 +6,7 @@
   &#8287;&#8287;
   <a href="https://www.youtube.com/@ikx7a"><img width="50px" alt="YouTube" title="YouTube" src="https://github.com/ikx7a/ikx7a/blob/main/icons/youtube.png"/></a>
   &#8287;&#8287;
-  <a href="https://t.me/Maxim_ffx" alt="Telegram" title="Telegram"><img width="50px" src="https://github.com/ikx7a/ikx7a/blob/main/icons/telegram.png"/></a>
+  <a href="https://telegram.me/Maxim_ffx" alt="Telegram" title="Telegram"><img width="50px" src="https://github.com/ikx7a/ikx7a/blob/main/icons/telegram.png"/></a>
   &#8287;&#8287;
 </p>
 
