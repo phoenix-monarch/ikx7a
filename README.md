@@ -1,5 +1,19 @@
 [![YouTube](https://github.com/ikx7a/ikx7a/blob/main/Photos/_main_.png)](https://github.com/ikx7a/YouTube)
 
+<!-- Start Social icons section -->
+<p align="center">
+  <a href="https://instagram.com/ikx7.a"><img width="50px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/icons/instagram.png"/></a>
+  &#8287;&#8287;
+  <a href="https://www.youtube.com/@ikx7a"><img width="50px" alt="YouTube" title="YouTube" src="https://github.com/ikx7a/ikx7a/blob/main/icons/youtube.png"/></a>
+  &#8287;&#8287;
+  <a href="https://t.me/Maxim_ffx" alt="Telegram" title="Telegram"><img width="50px" src="https://github.com/ikx7a/ikx7a/blob/main/icons/telegram.png"/></a>
+  &#8287;&#8287;
+</p>
+
+<br/>
+
+<!-- End Social badges section -->
+
 - 📚 𝐼'𝑚 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 : **About Deep Learning, Computer Vision.**
 - 💬 𝐴𝑠𝑘 𝑀𝑒 𝐴𝑏𝑜𝑢𝑡 : [**Anything**](https://telegram.dog/LisaXRobot)
 - 😄 𝑃𝑟𝑜𝑛𝑜𝑢𝑛𝑠 : **He/Him/His**
