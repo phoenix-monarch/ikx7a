@@ -15,7 +15,7 @@
 - 💬 𝐴𝑠𝑘 𝑀𝑒 𝐴𝑏𝑜𝑢𝑡 : [**Anything**](https://telegram.dog/LisaXRobot)
 - 😄 𝑃𝑟𝑜𝑛𝑜𝑢𝑛𝑠 : **He/Him/His**
 - ❤️ 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡 : **I Love [Shikimori's](https://github.com/ikx7a/Shikimori-San)**
-- - -
+
 <details>
 <summary>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</summary>
 
