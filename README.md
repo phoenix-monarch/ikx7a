@@ -1,11 +1,7 @@
 <!-- Start Achievements icons section -->
-<details>
- <summary>𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬</summary>
-<br>
 <p align="center">
-  <a href="https://github.com/ikx7a/ikx7a/tree/main/Achievements"><img width="300px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/Achievements.png"/></a>
+  <a href="https://github.com/ikx7a/ikx7a/tree/main/Achievements"><img width="200px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/Achievements.png"/></a>
 </p>
-</details>
 <!-- End Achievements icons section -->
 
 [![YouTube](https://github.com/ikx7a/ikx7a/blob/main/Photos/_main_.png)](https://github.com/ikx7a/YouTube)
