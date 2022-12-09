@@ -1,6 +1,6 @@
-<h1 align="center">
-    ─「 𝑮𝒊𝒕𝑯𝒖𝒃 」─
-</h1>
+<h2 align="center">
+    ─「 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒖𝒔 」─
+</h2>
 <div align="center">
 
 <p align="center">
