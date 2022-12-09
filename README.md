@@ -1,3 +1,13 @@
+<details>
+ <summary>𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬</summary>
+
+<!-- Start Achievements icons section -->
+<p align="center">
+  <a href="https://github.com/ikx7.a"><img width="300px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/Achievements.png"/></a>
+<!-- End Achievements icons section -->
+
+</details>
+
 [![YouTube](https://github.com/ikx7a/ikx7a/blob/main/Photos/_main_.png)](https://github.com/ikx7a/YouTube)
 <!-- Start Social icons section -->
 <p align="center">
@@ -68,7 +78,7 @@ class Izumi():
 
 </details>
 <div align="center">
-
+ 
 <a href="https://github.com/ikx7a?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a> 
 
 [![@ikx7a](https://github.com/ikx7a/ikx7a/blob/main/assets/contributions.svg)](https://github.com/ikx7a)
