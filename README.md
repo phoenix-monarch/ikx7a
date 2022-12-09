@@ -10,8 +10,6 @@
   &#8287;&#8287;
 </p>
 
-<br/>
-
 <!-- End Social badges section -->
 
 - 📚 𝐼'𝑚 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 : **About Deep Learning, Computer Vision.**
