@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://instagram.com/ikx7.a"><img width="50px" alt="Instagram" title="Instagram" src="https://github.com/ikx7a/ikx7a/blob/main/icons/instagram.png"/></a>
   &#8287;&#8287;
-  <a href="https://www.youtube.com/@ikx7a"><img width="50px" alt="YouTube" title="YouTube" src="https://github.com/ikx7a/ikx7a/blob/main/icons/youtube.png"/></a>
+  <a href="https://github.com/ikx7a/YouTube"><img width="50px" alt="YouTube" title="YouTube" src="https://github.com/ikx7a/ikx7a/blob/main/icons/youtube.png"/></a>
   &#8287;&#8287;
   <a href="https://telegram.me/Maxim_ffx" alt="Telegram" title="Telegram"><img width="50px" src="https://github.com/ikx7a/ikx7a/blob/main/icons/telegram.png"/></a>
   &#8287;&#8287;
