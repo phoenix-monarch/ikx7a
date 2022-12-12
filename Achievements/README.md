@@ -1,11 +1,6 @@
-<h4>GitHub Profile Achievements</h4>
+<div align="center"><h4>GitHub Profile Achievements</h4>
 
 A collection listing all Achievements available on the GitHub profile.
-
-
-**Achievements**
-
-<h6>
 
 | Title | Badge | Earnable? | Earned by |
 | :---: | :---: | :-------: | :-------: |
@@ -15,4 +10,4 @@ A collection listing all Achievements available on the GitHub profile.
 | **Pull Shark** | [![Pull Shark Badge](/image/pull-shark-default.png)](https://github.com/ikx7a/ikx7a/tree/main/Achievements) | ✔️ | 2 pull requests merged |
 | **YOLO** | [![YOLO Badge](/image/yolo-default.png)](https://github.com/ikx7a/ikx7a/tree/main/Achievements) | ✔️ | Merged a pull request without code review |
 
-</h6>
+<a href="https://github.com/ikx7a/ikx7a"> `BACK` </a>
