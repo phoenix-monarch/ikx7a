@@ -1,7 +1,7 @@
 <!-- Start Achievements icons section -->
 <div align="center">
 
-  [Achievements](https://github.com/ikx7a/ikx7a/tree/main/Achievements)
+  [GitHub Achievements](https://github.com/ikx7a/ikx7a/tree/main/Achievements)
 
 </div>
 <!-- End Achievements icons section -->
