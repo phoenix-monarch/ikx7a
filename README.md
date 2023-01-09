@@ -31,11 +31,11 @@
 ```python3
 class  Lazy():
     def __init__(self):
-        self.name = ['I𝗓υɱi 和泉']
+        self.name = ['Itachi Uchiha']
         self.age = ['19']
         self.country = ['India']
         self.language = ['हिंदी', 'English']
-        self.quotes ['Whatever Your Situation Is Now, Say Alhamdulillah']
+        self.quotes ['It is foolish to fear what we have yet to see and know.']
     def programming_languages(self):
         return [
             'Python', 'SQL'
