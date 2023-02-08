@@ -64,10 +64,12 @@ class  Lazy():
 <div align="center">
 </h2><b>
 <p align="center">
-  • <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> More Information </a>
-  • <a href="https://github.com/ikx7a/Organizations"> Organizations </a> •
+
+  • <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> `GitHub Status` </a> •
+
+  • <a href="https://github.com/ikx7a/Organizations"> `Organizations` </a> •
     
-  • <a href="https://github.com/ikx7a/ikx7a/tree/main/Now%20Playing"> Now Playing </a> •
+  • <a href="https://github.com/ikx7a/ikx7a/tree/main/Now%20Playing"> `Now Playing` </a> •
 </h2></b></p>
 
 <!-- Start Contact section -->
