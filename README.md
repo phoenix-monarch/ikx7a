@@ -74,7 +74,7 @@ class  Lazy():
 
 <!-- Start Contact section -->
 <h3 align="center">
-    ─「 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 」─
+    ─「 𝐋𝐞𝐭'𝐬 𝐁𝐞 𝐒𝐨𝐜𝐢𝐚𝐥 」─
 </h3>
 
 [![Linktree](https://img.shields.io/badge/linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ikx7.a)
