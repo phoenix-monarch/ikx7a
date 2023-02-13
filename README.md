@@ -61,16 +61,15 @@ class  Lazy():
 
 <!-- End About section -->
 
-<div align="center">
-</h2><b>
+<div align="center"> <b>
 <p align="center">
 
-  • <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> `GitHub Status` </a> •
-
-  • <a href="https://github.com/ikx7a/Organizations"> `Organizations` </a> •
+  • <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> `GitHub Status` </a> • <a href="https://github.com/ikx7a/Organizations"> `Organizations` </a> •
     
   • <a href="https://github.com/ikx7a/ikx7a/tree/main/Now%20Playing"> `Now Playing` </a> •
-</h2></b></p>
+
+ㅤ</b>
+</p>
 
 <!-- Start Contact section -->
 <h3 align="center">
