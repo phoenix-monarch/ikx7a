@@ -87,7 +87,7 @@ class  Lazy():
 
 <div align="center">
  
-<a href="https://github.com/ikx7a?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a> 
+<a href="https://github.com/Shikimorix?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a> 
 
 [![@ikx7a](https://github.com/ikx7a/ikx7a/blob/main/assets/contributions.svg)](https://github.com/ikx7a)
 </div>
